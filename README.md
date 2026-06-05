@@ -62,34 +62,17 @@ Full-featured script built on WindUI. ESP suite (highlight, box, skeleton, name,
 
 ---
 
+### 🌀 slurricane.dev minecraft client
+> a wip minecraft hacked client for 1.8.9
 
-### ⚙️ Project Atlas
-> Modded Minecraft geopolitics/war roleplay server
+wip
 
-200+ mod Forge 1.20.1 server with Superb Warfare, Create, Mekanism, AE2 and a custom naval warfare addon. Deep TPS optimization via Spark profiler, JVM tuning, and custom anti-cheat mod (CreativeGuard).
-
-`Java` `Forge` `GeckoLib` `Mekanism` `Minecraft`
-
----
-
-
-
-## stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=braindeadpaster&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braindeadpaster&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RezzyW&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
+`java` `more java` `even more java` `woah java`
 
 ---
+
+
+
 
 <div align="center">
 
