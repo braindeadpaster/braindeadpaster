@@ -78,7 +78,7 @@ Full-featured script built on WindUI. ESP suite (highlight, box, skeleton, name,
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RezzyW&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=braindeadpaster&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braindeadpaster&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
 
 </div>
