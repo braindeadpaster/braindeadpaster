@@ -21,7 +21,7 @@ wip
 ---
 
 
-
+https://discord.gg/slurricane
 
 <div align="center">
 
