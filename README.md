@@ -26,9 +26,9 @@ wip
 endorphin is built for cheat devs, by cheat devs. the ui framework is simple to use, and brings high quality guis. featuring glow, multiple controls like dynamic dropdowns, full tab and section system, and much more.
 endorphin is currently a work in progress, but it already brings high promises to the ui developers of the cheating community.
 
-wip
 
-`java` `more java` `even more java` `woah java`
+
+`c#`
 
 ---
 
