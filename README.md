@@ -1,4 +1,11 @@
+## about me
 
+hi im braindead or as a lot of people know me rezzy, i'm a pretty good ui developer and its what i specialize in along side C# and lua. (the easiest languages ever) i enjoy coding but im not really allat, which is why i mainly stick to ui development.
+
+ive been working on some cool stuff which you can find below, the main one being slurricane and the newest one being endorphin (which looks hella good btw...) 
+ive gotten pretty good at imgui over the years and every once in a while ill drop my sources here and there.
+
+bye loser
 
 ## projects
 
@@ -10,13 +17,6 @@ Full-featured script built on Slurricane's Public UI Library. ESP suite (highlig
 `Lua` `SlurricaneLib` `Drawing API` `Roblox`
 
 ---
-
-### 🌀 slurricane.dev minecraft client
-> a wip minecraft hacked client for 1.8.9
-
-wip
-
-`java` `more java` `even more java` `woah java`
 
 ---
 
