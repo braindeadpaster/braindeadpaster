@@ -6,8 +6,8 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=rz&label=Profile%20views&color=e63946&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/rz?label=Followers&style=for-the-badge&color=e63946&labelColor=1a1a1a" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=braindeadpaster&label=Profile%20views&color=e63946&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/braindeadpaster?label=Followers&style=for-the-badge&color=e63946&labelColor=1a1a1a" alt="Followers" />
 <img src="https://img.shields.io/badge/Focus-Game%20Hacking-e63946?style=for-the-badge&labelColor=1a1a1a" alt="Focus" />
 <img src="https://img.shields.io/badge/Learning-Windows%20Kernel-fbbf24?style=for-the-badge&labelColor=1a1a1a&logo=windows&logoColor=white" alt="Learning" />
 
