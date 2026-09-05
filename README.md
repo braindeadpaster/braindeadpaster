@@ -39,7 +39,7 @@ namespace rz {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,py,bash,cmake,visualstudio,vscode,git,github,windows,&perline=9" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,visualstudio,vscode,git,github,&perline=9" alt="Tech stack" />
 
 <br /><br />
 
@@ -49,7 +49,6 @@ namespace rz {
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/x64dbg-3B7DDD?style=for-the-badge&logoColor=white)
 ![Cheat Engine](https://img.shields.io/badge/Cheat_Engine-B60000?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
