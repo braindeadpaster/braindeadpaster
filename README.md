@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/rz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=800&color=E63946&center=true&vCenter=true&width=900&lines=rz+//+cheat+developer;game+hacking+%2F+injectors+%2F+internals;C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+Python;learning+the+kernel+one+bug+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=800&color=E63946&center=true&vCenter=true&width=900&lines=rezzy+//+cheat+developer;game+hacking+%2F+injectors+%2F+internals;C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+Python;learning+the+kernel." alt="Typing SVG" />
 </a>
 
 <br />
