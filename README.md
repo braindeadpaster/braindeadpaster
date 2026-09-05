@@ -98,7 +98,7 @@ namespace rz {
         <img src="https://img.shields.io/badge/VAC-undetected-2ea043?style=flat-square" />
         <img src="https://img.shields.io/badge/BE-undetected-2ea043?style=flat-square" />
       </p>
-      <p>Personal <b>manual-map injector</b> built on an undiscovered vuln driver. Confirmed clean on <b>VAC</b> and <b>BattlEye</b> at time of writing.</p>
+      <p>Personal <b>manual-map injector</b> private. built on an undiscovered vuln driver. Confirmed clean on <b>VAC</b> and <b>BattlEye</b> at time of writing.</p>
       <ul>
         <li>Manual mapping w/ TLS, reloc, and import resolution</li>
         <li>APC + thread-hijack execution paths</li>
