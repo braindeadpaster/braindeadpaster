@@ -156,20 +156,20 @@ namespace rz {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rz&show_icons=true&count_private=true&hide_border=true&title_color=e63946&icon_color=e63946&text_color=ffffff&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rz&layout=compact&hide_border=true&title_color=e63946&text_color=ffffff&bg_color=0d1117&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=braindeadpaster&show_icons=true&count_private=true&hide_border=true&title_color=e63946&icon_color=e63946&text_color=ffffff&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braindeadpaster&layout=compact&hide_border=true&title_color=e63946&text_color=ffffff&bg_color=0d1117&langs_count=8" />
 
 <br />
 
-<img height="180" src="https://streak-stats.demolab.com?user=rz&hide_border=true&background=0d1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+<img height="180" src="https://streak-stats.demolab.com?user=braindeadpaster&hide_border=true&background=0d1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=rz&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=braindeadpaster&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rz&bg_color=0d1117&color=e63946&line=e63946&point=ffffff&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=braindeadpaster&bg_color=0d1117&color=e63946&line=e63946&point=ffffff&area=true&hide_border=true" width="98%" />
 
 </div>
 
