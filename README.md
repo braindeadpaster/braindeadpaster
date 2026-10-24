@@ -78,22 +78,6 @@ namespace rz {
 
 ---
 
-## currently learning / grinding
-
-<div align="center">
-
-| area | depth | notes |
-|:----:|:-----:|:-----:|
-| **C++** | `████████░░` | daily driver, cheats + injectors |
-| **C#** | `██████░░░░` | tooling, loaders, WPF frontends |
-| **Python** | `██████░░░░` | offset dumpers, automation scripts |
-| **Game Hacking** | `███████░░░` | external + internal, ESP, aimbot, memory |
-| **Windows Kernel** | `██░░░░░░░░` | learning — drivers, IOCTLs, EPROCESS |
-| **Driver Development** | `██░░░░░░░░` | learning — WDM basics, IOCTL dispatch |
-
-</div>
-
----
 
 ## quote
 
@@ -103,17 +87,8 @@ namespace rz {
 
 </div>
 
----
 
-## reach
 
-<div align="center">
-
-<a href="https://github.com/braindeadpaster"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://getmodulehandlew/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://donthaveone/"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-
-<br /><br />
 
 <sub><i>everything here is for educational and research purposes. i don't ship what i don't understand.</i></sub>
 
