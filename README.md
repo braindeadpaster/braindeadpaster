@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/braindeadpaster">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=800&color=E63946&center=true&vCenter=true&width=900&lines=rezzy+//+cheat+developer;game+hacking+%2F+injectors+%2F+internals;C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+Python;learning+the+kernel." alt="Typing SVG" />
-</a>
+
 
 <br />
 
@@ -13,27 +11,6 @@
 
 </div>
 
----
-
-## whoami
-
-```cpp
-namespace rz {
-    struct Developer {
-        const char* alias      = "rezzy";
-        const char* role       = "developer";
-        const char* focus[3]   = { "Game Hacking", "Injectors", "Anti-Cheat Bypass" };
-        const char* learning[2]= { "Windows Kernel", "Driver Development" };
-        const char* daily[3]   = { "C++", "C#", "Python" };
-        const char* tools[3]   = { "Visual Studio", "x64dbg", "Cheat Engine" };
-        bool        paster    = true;
-    };
-}
-```
-
-
-
----
 
 ## arsenal
 
@@ -90,7 +67,7 @@ namespace rz {
 
 
 
-<sub><i>everything here is for educational and research purposes. i don't ship what i don't understand.</i></sub>
+<sub><i>everything here is for educational and research purposes.</i></sub>
 
 <br />
 
